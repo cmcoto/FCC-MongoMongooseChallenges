@@ -1,2 +1,2 @@
-# FCC-MongoMongooseChallenges
-FreeCodeCamp Mongo DB and Mongoose Challenges
+FCC Mongo & Mongoose Challenges
+===============================
